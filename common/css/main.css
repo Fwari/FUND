@@ -90,9 +90,11 @@ footer .copyright {margin-bottom:0;color:#999;font-size:14px;font-weight:800;let
 
 @media screen and (max-width:800px)
 {
-    html,body{letter-spacing:-.03em;font-size:62.5%}
-    section,article,header,footer,nav,div,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt,img,a,form,input,select,option,fieldset,textarea,button,label,figure{font-size:1.4rem}
-    .container {width:90%}
+    html, body {font-size:62.5%;letter-spacing:-.03em;}
+    section, article, header, footer, nav, div, p,
+    h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dd, dt, 
+    img, a, form, input, select, option, fieldset, textarea, button, label, figure {font-size:1.4rem;}
+    .container {width:90%;}
     .consult_btn {width:150px;margin:0 auto;margin-top:40px;font-size:1.4rem;line-height:40px;}
     header {top:20px}
     header h1 a {color:#fff;font-size:1.8rem;line-height:30px;}

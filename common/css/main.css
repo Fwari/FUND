@@ -25,6 +25,7 @@ header h1 a {color:#222;font-size:22px;font-weight:700;line-height:40px;}
 .article_03 .area .txt_01 {font-size:34px;font-weight:600;line-height:42px;animation-delay:.4s;}
 .article_03 .area .txt_02 {color:#666;margin-top:20px;font-size:18px;line-height:28px;animation-delay:.6s;}
 .article_03 .area figure {animation-delay:.8s;}
+.article_03 .area figure img {width:100%;max-width:400px;}
 
 .article_04 {position:relative;padding:120px 0;}
 .article_04 .area {display:inline-block;}
